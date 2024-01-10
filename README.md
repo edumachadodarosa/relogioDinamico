@@ -1,7 +1,11 @@
 ## Relógio Dinâmico
 
 
-https://github.com/edumachadodarosa/relogioDinamico/assets/145352273/909869af-3fcb-4648-b923-9b1343fa8001
+
+
+https://github.com/edumachadodarosa/relogioDinamico/assets/145352273/c82473da-98df-4e37-afa4-e084aee32872
+
+
 
 
 Um simples relógio dinâmico desenvolvido por um programador iniciante. Este projeto utiliza HTML, CSS e JavaScript para criar uma interface atraente e exibir a hora em tempo real.
