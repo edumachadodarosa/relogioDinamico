@@ -25,10 +25,7 @@ Clone o repositório ou faça o download dos arquivos.<br>
 Abra o arquivo index.html em seu navegador.<br>
 
 
-## Personalização
 
-
-Você pode personalizar o estilo do relógio ajustando as propriedades no arquivo style.css. Sinta-se à vontade para experimentar diferentes esquemas de cores, tamanhos e fontes.
 
 ## Estrutura do Projeto
 
